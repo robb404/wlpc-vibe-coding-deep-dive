@@ -6,7 +6,7 @@ What's here:
 
 - `labs/`: the lab guides, one PDF each, numbered by module
 - `converter/`: the files for the wireless design file converter lab
-- `slides/`: the slides, as one PDF, added after the class
+- `slides/`: the slides, as one PDF
 
 ## Session 1
 
