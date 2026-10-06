@@ -4,7 +4,7 @@ Six hours, two sessions of three.
 
 What's here:
 
-- `labs/`: the lab guides, one PDF each, numbered in course order
+- `labs/`: the lab guides, one PDF each, numbered by module
 - `converter/`: the files for the wireless design file converter lab
 - `slides/`: the slides, as one PDF, added after the class
 
@@ -18,9 +18,9 @@ What's here:
 
 ## Session 2
 
-- Groundwork
 - MCP
 - The process
+- How I use Claude
 - Wireless design file converter
 
 ## Labs
