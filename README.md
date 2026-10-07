@@ -30,5 +30,6 @@ What's here:
 - Session 1: `labs/04 Lab - Your snake, live.pdf`
 - Session 1: `labs/05 Lab - A skill that writes like you.pdf`
 - Session 1: `labs/05 Lab - What a plugin costs.pdf`
+- Session 2: `labs/07 Lab - Two servers, one plug.pdf`
 - Session 2: `labs/08 Lab - Install the pipeline, then write your file.pdf`
 - Session 2: `labs/09 Lab - Wireless design file converter.pdf`
